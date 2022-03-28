@@ -3,4 +3,5 @@
              sndpgmmsg  'test'
              sndpgmmsg 'forsave'
              sndpgmmsg 'check again'
+             sndpgmmsg 'tkt11'
              ENDPGM
