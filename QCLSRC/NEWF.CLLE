@@ -1,4 +1,6 @@
              PGM
 
              sndpgmmsg  'test'
+             sndpgmmsg 'forsave'
+             sndpgmmsg 'check again'
              ENDPGM
