@@ -1,2 +1,4 @@
-PGM
-ENDPGM
+             PGM
+
+             sndpgmmsg  'test'
+             ENDPGM
