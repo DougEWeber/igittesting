@@ -14,5 +14,5 @@
              /* more tests */
              /* even more */
              /* too many test */
-             /* big test bbb  */
+             /* big test nb  */
              ENDPGM
