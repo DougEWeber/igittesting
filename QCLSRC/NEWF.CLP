@@ -12,4 +12,5 @@
              /**/
              /* test */
              /* more tests */
+             /* even more */
              ENDPGM
