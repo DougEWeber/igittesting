@@ -15,4 +15,5 @@
              /* even more */
              /* too many test */
              /* big test bxx  */
+             /* TESTIT */
              ENDPGM
