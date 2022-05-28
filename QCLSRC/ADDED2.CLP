@@ -1,3 +1,0 @@
-PGM
-/* ADDECD 2 */
-ENDPGM
