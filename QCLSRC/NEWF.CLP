@@ -17,5 +17,4 @@
              /* big test bxx  */
              /* simple change test */
              /* content and txt change */
-             /* simple text change */
              ENDPGM
